@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://blackparadise0407.github.io/404-Not-Found">
       Demo
-    </a>
+    </a
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/blackparadise0407/404-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://blackparadise0407.github.io/404-Not-Found)
 - GitHub [@blackparadise0407](https://github.com/blackparadise0407)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
