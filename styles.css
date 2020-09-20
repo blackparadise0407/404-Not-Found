@@ -173,6 +173,17 @@ a {
   padding: 2.4rem 4.3rem;
   background-color: #333333;
   margin-top: 64px;
+  -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+  transition: opacity 0.3s, -webkit-transform 0.3s;
+  transition: transform 0.3s, opacity 0.3s;
+  transition: transform 0.3s, opacity 0.3s, -webkit-transform 0.3s;
+  cursor: pointer;
+}
+
+.main .right .button:hover {
+  opacity: 90%;
+  -webkit-transform: scale(0.95);
+          transform: scale(0.95);
 }
 
 @media screen and (max-width: 640px) {

@@ -89,6 +89,13 @@ a {
         width: 350px;
         height: 142px;
       }
+      // @media screen and(max-width: 640px) {
+      //   width: 100%;
+      //   font-size: 48px;
+      //   line-height: 71.09px;
+      //   width: 350px;
+      //   height: 142px;
+      // }
     }
     .content {
       font-weight: 400;
@@ -120,6 +127,12 @@ a {
       padding: 2.4rem 4.3rem;
       background-color: #333333;
       margin-top: 64px;
+      transition: transform 0.3s, opacity 0.3s;
+      cursor: pointer;
+      &:hover {
+        opacity: 90%;
+        transform: scale(0.95);
+      }
       @media screen and(max-width: 640px) {
         font-size: 14px;
         line-height: 20.73px;
